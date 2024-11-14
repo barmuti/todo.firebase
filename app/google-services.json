@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402435689057",
+    "project_id": "belajar-firebase-todo-2",
+    "storage_bucket": "belajar-firebase-todo-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402435689057:android:cca4722df58ae7b1ff7820",
+        "android_client_info": {
+          "package_name": "com.example.todofirebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbAwKTabNin9uhvSFM6aEy2BuKQfDG1-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
